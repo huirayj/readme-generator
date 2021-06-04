@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/huirayj/readme-generator/issues"
   },
-  "homepage": "https://github.com/huirayj/readme-generator#readme"
+  "homepage": "https://github.com/huirayj/readme-generator#readme",
+  "dependencies": {
+    "inquirer": "^8.1.0"
+  }
 }
