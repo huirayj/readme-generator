@@ -1,5 +1,5 @@
 const licenseBadge = (license) => {
-    switch (license) {
+    switch(license) {
         case 'Apache 2.0 License':
             return `[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)`;
             break;
