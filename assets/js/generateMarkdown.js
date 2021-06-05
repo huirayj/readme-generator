@@ -5,11 +5,11 @@ ${licenseBadge(data.license)}
 
 ## Table of Contents
 - [Description](#Description)
-- [Installation](#Installation)
-- [Usage](#Usage)
-- [Test](#Tests)
+${data.installation && `- [Installation](#Installation)`}
+${data.usage && `- [Usage](#Usage)`}
+${data.tests && `- [Test](#Tests)`}
+${data.contributing && `- [Contributing](#Contributing)`}
 - [License](#License)
-- [Contributing](#Contributing)
 - [Questions?](#Questions?)
 
 ---
@@ -17,19 +17,19 @@ ${licenseBadge(data.license)}
 ## Description
 ${data.description}
 
----
+${data.installation && `---
 
-## Installation
+## Installation`}
 ${data.installation}
 
----
+${data.usage && `---
 
-## Usage
+## Usage`}
 ${data.usage}
 
----
+${data.tests && `---
 
-## Tests
+## Tests`}
 ${data.tests}
 
 ---
@@ -37,9 +37,9 @@ ${data.tests}
 ## License
 ${data.license}
 
----
+${data.tests && `---
 
-## Contributing
+## Contributing`}
 ${data.contributing}
 
 ---
