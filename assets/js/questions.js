@@ -53,7 +53,7 @@ const questions = [
         type: 'input',
         message: 'Enter your E-mail address: ',
         name: 'email',
-    }
+    },
 ];
 
 module.exports = questions;
