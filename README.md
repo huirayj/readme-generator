@@ -20,4 +20,4 @@ In the follow exericse, the user was tasked with generating a basic GitHub READM
 ## Screenshots
 
 ## Demo
-[Demo](./assets/images/video/readme-generator-demo.webm)
+[Demo](./assets/video/readme-generator-demo.webm)
