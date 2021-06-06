@@ -9,19 +9,6 @@ const questions = [
     },
     {
         type: 'input',
-        message: 'Enter your GitHub username: ',
-        name: 'username',
-        validate(answer) {
-            return (answer.length) ? true : console.log("A GitHub username is required.");
-        }
-    },
-    {
-        type: 'input',
-        message: 'Enter your E-mail address: ',
-        name: 'email',
-    },
-    {
-        type: 'input',
         message: 'Enter a description of your project: ',
         name: 'description',
         validate(answer) {
@@ -53,7 +40,20 @@ const questions = [
         type: 'input',
         message: 'Explain how to test your project: ',
         name: 'tests',
-    }
+    },
+    {
+        type: 'input',
+        message: 'Enter your GitHub username: ',
+        name: 'username',
+        validate(answer) {
+            return (answer.length) ? true : console.log("A GitHub username is required.");
+        }
+    },
+    {
+        type: 'input',
+        message: 'Enter your E-mail address: ',
+        name: 'email',
+    },
 ];
 
 module.exports = questions;
