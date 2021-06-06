@@ -37,7 +37,7 @@ ${data.tests}
 ## License
 ${data.license}
 
-${data.tests && `---
+${data.contributing && `---
 
 ## Contributing`}
 ${data.contributing}
