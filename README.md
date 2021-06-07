@@ -9,6 +9,10 @@ In the follow exericse, the user was tasked with generating a basic GitHub READM
 3. Create a new file with the proper extension.
 4. Access user prompt data and place it into the newly created file.
 
+## Installation
+1. ```npm init```
+2. ```npm i inquirer```
+
 ## Resources
 - [Inquirer](https://www.npmjs.com/package/inquirer)
 - [npm](https://www.npmjs.com/)
@@ -17,7 +21,6 @@ In the follow exericse, the user was tasked with generating a basic GitHub READM
 
 ## Links
 [Repository](https://github.com/huirayj/readme-generator)
-## Screenshots
+[Demo]()
 
-## Demo
-[Demo](./assets/video/readme-generator-demo.webm)
+## Screenshots
