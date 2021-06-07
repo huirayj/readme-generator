@@ -20,7 +20,8 @@ In the follow exericse, the user was tasked with generating a basic GitHub READM
 - [License Badges](https://gist.github.com/lukas-h/2a5d00690736b4c3a7ba)
 
 ## Links
-[Repository](https://github.com/huirayj/readme-generator)
+- [Repository](https://github.com/huirayj/readme-generator)
+- [Higher Quality Demo](https://drive.google.com/file/d/18u88hRYRva_8WLetG5t5jywXfLaeSzoa/view?usp=sharing)
 
 ## Demo
 ![readme-generator-demo](https://github.com/huirayj/readme-generator/blob/main/assets/video/readme-generator-demo.gif)
