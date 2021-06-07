@@ -1,4 +1,3 @@
-![readme-generator-demo](https://user-images.githubusercontent.com/8137600/121084554-c64b6980-c7ae-11eb-9c40-129c5f5d46b4.gif)
 # Basic README Generator via CLI
 
 ## Overview
@@ -22,8 +21,6 @@ In the follow exericse, the user was tasked with generating a basic GitHub READM
 
 ## Links
 [Repository](https://github.com/huirayj/readme-generator)
-
-## Screenshots
 
 ## Demo
 ![readme-generator-demo](https://user-images.githubusercontent.com/8137600/121084554-c64b6980-c7ae-11eb-9c40-129c5f5d46b4.gif)
