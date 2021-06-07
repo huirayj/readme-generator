@@ -21,6 +21,7 @@ In the follow exericse, the user was tasked with generating a basic GitHub READM
 
 ## Links
 [Repository](https://github.com/huirayj/readme-generator)
+[Higher Quality Demo](https://drive.google.com/file/d/18u88hRYRva_8WLetG5t5jywXfLaeSzoa/view?usp=sharing)
 
 ## Demo
 ![readme-generator-demo](https://github.com/huirayj/readme-generator/blob/main/assets/video/readme-generator-demo.gif)
