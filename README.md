@@ -23,4 +23,4 @@ In the follow exericse, the user was tasked with generating a basic GitHub READM
 [Repository](https://github.com/huirayj/readme-generator)
 
 ## Demo
-![readme-generator-demo](https://user-images.githubusercontent.com/8137600/121084554-c64b6980-c7ae-11eb-9c40-129c5f5d46b4.gif)
+![readme-generator-demo](https://github.com/huirayj/readme-generator/blob/main/assets/video/readme-generator-demo.gif)
