@@ -46,7 +46,7 @@ ${data.contributing}
 
 ## Questions?
 - [${data.username}'s GitHub Profile](https://github.com/${data.username})
-- [${data.email}](${data.email})
+- [${data.email}](mailto:${data.email})
 
 `;
 
